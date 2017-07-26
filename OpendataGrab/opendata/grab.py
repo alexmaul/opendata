@@ -13,7 +13,7 @@ or conditions of any kind, either express or implied.
 
 @copyright:  2017 Deutscher Wetterdienst (DWD). All rights reserved.
 
-@license:    Legacy
+@license:    GNU GENERAL PUBLIC LICENSE Vers.3
 
 @contact:    opendata@dwd.de
 """
